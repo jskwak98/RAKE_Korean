@@ -1,0 +1,5 @@
+dataclasses==0.6
+kiwipiepy==0.14.1
+kiwipiepy-model==0.14.0
+numpy==1.24.2
+tqdm==4.64.1
